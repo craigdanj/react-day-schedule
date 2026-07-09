@@ -1,6 +1,6 @@
 # react-day-schedule
 View your day's schedule along a horizontal timeline. Built for React.
-This hasn;t been published to npm yet. For now you can copy the component file in the src folder into your project.
+This hasn't been published to npm yet. For now you can copy the component file in the src folder into your project.
 
 ## Usage:
 
