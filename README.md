@@ -2,14 +2,13 @@
 
 A React component to view your day's schedule along a horizontal timeline.
 
-(This is a port of **[vue-day-schedule](https://github.com/craigdanj/vue-day-schedule)** to React.)
+### **[View demo here](https://react-day-schedule.vercel.app/)**
 
-**[Demo:](https://react-day-schedule.vercel.app/)**
 
 ## Install via npm
 
 ```bash
-npm install vue-day-schedule
+npm install view-day-schedule
 ```
 
 ## Usage:
@@ -32,3 +31,6 @@ export default function App() {
   );
 }
 ```
+
+
+Note: This is a React port of **[vue-day-schedule](https://github.com/craigdanj/vue-day-schedule)**
