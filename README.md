@@ -3,6 +3,7 @@
 A horizontal timeline for displaying daily events. Handles overlapping events, a live "now" marker, and day navigation — no dependencies beyond React.
 
 ### **[View demo here](https://view-day-schedule.vercel.app/)**
+To customise the styles to suit your preference refer to the code in the demo index.html page.
 
 
 ## Install via npm
