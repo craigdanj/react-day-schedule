@@ -1,6 +1,6 @@
 # View Day Schedule
 
-A React component to view your day's schedule along a horizontal timeline.
+A horizontal timeline for displaying daily events. Handles overlapping events, a live "now" marker, and day navigation — no dependencies beyond React.
 
 ### **[View demo here](https://view-day-schedule.vercel.app/)**
 
